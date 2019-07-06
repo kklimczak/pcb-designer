@@ -1,0 +1,23 @@
+{
+  "name": "pcb-designer",
+  "version": "0.0.1",
+  "description": "PCB designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kklimczak/pcb-designer.git"
+  },
+  "keywords": [
+    "pcb",
+    "designer"
+  ],
+  "author": "Konrad Klimczak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kklimczak/pcb-designer/issues"
+  },
+  "homepage": "https://github.com/kklimczak/pcb-designer#readme"
+}
